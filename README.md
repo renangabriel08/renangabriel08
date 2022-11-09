@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/souzgabkkj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-![Snake animation](https://github.com/gabsouzkkj/gabsouzkkj/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/renangabriel08/renangabriel08/blob/output/github-contribution-grid-snake.svg)
   
 ### My experience within the area:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
