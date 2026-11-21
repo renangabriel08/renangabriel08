@@ -41,6 +41,23 @@ Passei três anos treinando para a **WorldSkills** na modalidade *Desenvolviment
 
 ---
 
+## 🎖️ Badges
+
+<div align="center">
+  <a href="https://www.credly.com/badges/d5985973-0fc5-4775-a6eb-a068ed56af5a/public_url"><img width="140" src="https://images.credly.com/size/280x280/images/7a8bd804-7205-4e5d-99ae-14ffe0ec696c/tempfile20260825-83-u82gm6.png" alt="WorldSkills Shanghai 2026 - Medal for Excellence"/></a>
+  <a href="https://www.credly.com/badges/8ae470a4-fa72-474e-8589-c23cd40258dd/public_url"><img width="140" src="https://images.credly.com/size/280x280/images/845b0206-d8b9-469c-af8b-cf82cff2ef97/tempfile20260814-64-e1y2n9.png" alt="WorldSkills Shanghai 2026 - Champion"/></a>
+</div>
+
+<div align="center">
+  <a href="https://www.credly.com/badges/5aa4934a-114c-4664-ab37-d3038eee275c/public_url"><img width="90" src="https://images.credly.com/size/180x180/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals"/></a>
+  <a href="https://www.credly.com/badges/0bb69633-9161-4384-a712-3a8f1f72eb85/public_url"><img width="90" src="https://images.credly.com/size/180x180/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals"/></a>
+  <a href="https://www.credly.com/badges/7042c2fd-755d-406a-b001-f1057f4bc2f8/public_url"><img width="90" src="https://images.credly.com/size/180x180/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Azure Data Fundamentals"/></a>
+  <a href="https://www.credly.com/badges/8c108787-7db9-4787-ae28-ca4842df5867/public_url"><img width="90" src="https://images.credly.com/size/180x180/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks"/></a>
+  <a href="https://www.credly.com/badges/281abd0f-985a-48b2-8992-e37910eed1be/public_url"><img width="90" src="https://images.credly.com/size/180x180/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" alt="IT Essentials"/></a>
+</div>
+
+---
+
 ## 📲 Apps publicados
 
 <table>
